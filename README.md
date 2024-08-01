@@ -1,5 +1,7 @@
 # OsintEmailBsz
 > Esta herramienta permite verificar y obtener información detallada sobre una dirección de correo electrónico utilizando una API externa. Está diseñada para ser simple y fácil de usar, con una interfaz centrada y resultados presentados de manera clara.
+>
+> Pagina web oline : https://toolapikey.foroactivo.com/h17-osintemailbsz
 # Características
 > Entrada de Correo Electrónico: Permite ingresar una dirección de correo electrónico para consultar.
 > 
